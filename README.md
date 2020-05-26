@@ -1,3 +1,3 @@
-This module contains a deep CNN network based on the U-net architecture using pyhton and Keras.
+LUNG SEGMENTATION - DATA SCIENCE BOWL 2017
 
-The data set contained 2D & 3D lung CT scan images.
+A deep CNN network based on the U-net architecture was built using Keras to segment lungs from 2D CT scan images. The model performed with a dice coefficient of 90%.
